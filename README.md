@@ -1,1 +1,1 @@
-# seguranca
+# segurança
