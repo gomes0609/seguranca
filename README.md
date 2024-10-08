@@ -33,3 +33,21 @@ Quer ajudar a melhorar a cifra de César? Você pode:
 * **Melhorar a documentação:** Deixe o código mais claro e fácil de entender para outros desenvolvedores.
 
 **#cifradesesar #criptografia #python #codigossecretos**
+
+## Exercicios Python
+
+**O que tem aqui:**
+
+* **Olá, Mundo!:**  O tradicional "Hello, World!" para começar.
+* **Calculadora Simples:**  Faz as quatro operações básicas e até potenciação!
+* **Entrada de dados:** Este código demonstra uma forma simples de criar programas interativos em Python, onde o usuário fornece informações e o programa responde de forma personalizada.
+* **Condições:** O código pede ao usuário que digite um número, verifica se esse número é divisível por 2 (se o resto da divisão por 2 é zero) e, dependendo do resultado, informa se o número é par ou ímpar.
+
+
+
+
+
+
+* **Melhore a interface:** Crie uma interface gráfica para deixar a calculadora mais bonita e fácil de usar.
+* **Adicione mais funções:** Implemente outras operações matemáticas, como raiz quadrada, potenciação, etc.
+* **Crie um módulo:** Transforme esse código em um módulo reutilizável em outros projetos.
