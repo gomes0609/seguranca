@@ -6,7 +6,7 @@
 
 Com essa simples ferramenta, você pode codificar suas mensagens como um verdadeiro agente secreto! A cifra de César é um método de criptografia por substituição, onde cada letra do alfabeto é substituída por outra, deslocada um número fixo de posições.
 
-#### Como funciona?
+### Como funciona?
 
 1. **Digite sua mensagem:** Escreva a mensagem que deseja criptografar ou descriptografar.
 2. **Escolha sua chave:** A chave é o número de posições que cada letra será deslocada no alfabeto. Quanto maior a chave, mais difícil será decifrar a mensagem.
@@ -16,7 +16,7 @@ Com essa simples ferramenta, você pode codificar suas mensagens como um verdade
 
 Se você digitar "OLA MUNDO" e escolher a chave 3, a mensagem será transformada em "ROD PXQGR". Para recuperar a mensagem original, basta descriptografar usando a mesma chave.
 
-#### Tecnologias utilizadas:
+### Tecnologias utilizadas:
 
 * **Python:** A linguagem de programação utilizada para criar a aplicação.
 * **Funções:** A lógica da cifra de César está encapsulada em uma função chamada `cifra_cesar`.
@@ -31,7 +31,5 @@ Quer ajudar a melhorar a cifra de César? Você pode:
 * **Sugerir novas funcionalidades:** Que tal adicionar suporte a outros alfabetos ou criar um modo para gerar chaves aleatórias?
 * **Corrigir bugs:** Ajude a encontrar e corrigir quaisquer erros no código.
 * **Melhorar a documentação:** Deixe o código mais claro e fácil de entender para outros desenvolvedores.
-
-**Junte-se a nós e explore o fascinante mundo da criptografia!**
 
 **#cifradesesar #criptografia #python #codigossecretos**
