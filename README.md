@@ -1,6 +1,6 @@
 # Segurança
 
-## ️‍♂️ Cifra de César: Desvende os segredos das mensagens secretas!
+## Cifra de César: Desvende os segredos das mensagens secretas!
 
 **Pronto para se tornar um mestre da criptografia?** 
 
@@ -23,16 +23,6 @@ Se você digitar "OLA MUNDO" e escolher a chave 3, a mensagem será transformada
 * **Strings:** As mensagens são manipuladas como strings de texto.
 * **Laços de repetição:** Um laço `for` é usado para percorrer cada letra da mensagem.
 * **Operadores aritméticos:** São utilizados para calcular o novo índice de cada letra no alfabeto.
-
-#### Contribua com o projeto!
-
-Quer ajudar a melhorar a cifra de César? Você pode:
-
-* **Sugerir novas funcionalidades:** Que tal adicionar suporte a outros alfabetos ou criar um modo para gerar chaves aleatórias?
-* **Corrigir bugs:** Ajude a encontrar e corrigir quaisquer erros no código.
-* **Melhorar a documentação:** Deixe o código mais claro e fácil de entender para outros desenvolvedores.
-
-**#cifradesesar #criptografia #python #codigossecretos**
 
 ## Exercicios Python
 
